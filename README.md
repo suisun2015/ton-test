@@ -53,6 +53,6 @@ While blockchains have the promise to create a more open and sustainable Interne
 
 Secret Network is a decentralized network of computers (which we call “secret nodes”) that utilize key encryption protocols combined with trusted execution environments (TEEs) to enable secure, private computation over encrypted data. TEEs function like a “black box” for data processing, and they are utilized in all types of everyday platforms such as smartphones and video game consoles. Because of this unique technology, Secret Network can run “secret” smart contracts - privacy-preserving smart contracts that are written in the Rust programming language. Because developers can choose what’s private and what’s public, we call this “programmable privacy.”
 
-TRC USDT: TQmL2Zcnxfh7Q5yy737hVdEUJxpKGap9iC
+TRC USDT: TQmL2Zcnxfh7Q5yy737hVdEUJxpKGap9iC , 
 ERC20 USDT: 0xDD231a6f8F04c5CbDc5808483766af2Fc497f320
 
