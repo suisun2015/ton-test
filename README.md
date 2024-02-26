@@ -39,7 +39,20 @@ Do not impersonate other members, moderators, or individuals.
 
 Do not discuss or participate in illegal activities.
 
-TRC USDT: TQmL2Zcnxfh7Q5yy737hVdEUJxpKGap9iC
+Welcome, Secret Agents! Here is your briefing 📝
 
+**What is Secret Network - and why is it unique?**
+
+Secret Network is a first-of-its-kind, open-source blockchain that provides data privacy by default. With Secret Network, developers can finally build decentralized and permissionless applications that also protect users and preserve privacy. Secret Network is built to be a data privacy hub for the entire blockchain universe.
+
+**Why is Secret Network needed?**
+
+While blockchains have the promise to create a more open and sustainable Internet, they are held back by one major flaw: today’s blockchains are public by default, exposing all your data to everyone. It is impossible to build usable applications if everything is public all the time. We don’t want banks to share all our credit card information publicly - or ride-sharing apps to share our location with everyone in the world. If we want to build a better Internet, we must protect data privacy and give users and organizations control over how their data is used and shared. Secret Network finally solves this problem of privacy, helping to secure and scale the decentralized web.
+
+**How does Secret Network work?**
+
+Secret Network is a decentralized network of computers (which we call “secret nodes”) that utilize key encryption protocols combined with trusted execution environments (TEEs) to enable secure, private computation over encrypted data. TEEs function like a “black box” for data processing, and they are utilized in all types of everyday platforms such as smartphones and video game consoles. Because of this unique technology, Secret Network can run “secret” smart contracts - privacy-preserving smart contracts that are written in the Rust programming language. Because developers can choose what’s private and what’s public, we call this “programmable privacy.”
+
+TRC USDT: TQmL2Zcnxfh7Q5yy737hVdEUJxpKGap9iC
 ERC20 USDT: 0xDD231a6f8F04c5CbDc5808483766af2Fc497f320
 
